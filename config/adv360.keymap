@@ -90,10 +90,10 @@
 
         layer_code {
             bindings = <
- &trans  &trans  &trans         &trans         &trans  &trans            &trans                                                  &trans  &trans     &trans     &trans          &trans  &trans  &trans
- &trans  &trans  &trans         &trans         &trans  &trans            &trans                                                  &trans  &trans     &trans     &trans          &trans  &trans  &trans
- &trans  &trans  &trans         &trans         &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans     &trans     &trans          &trans  &trans  &trans
- &trans  &trans  &trans         &trans         &trans  &trans                            &trans                  &trans                  &trans     &trans     &trans          &trans  &trans  &trans
+ &trans  &trans  &trans         &trans         &trans  &trans            &trans                                                  &trans  &trans     &trans          &trans          &trans  &trans  &trans
+ &trans  &trans  &trans         &trans         &trans  &trans            &trans                                                  &trans  &trans     &trans          &trans          &trans  &trans  &trans
+ &trans  &trans  &trans         &trans         &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans     &trans          &trans          &trans  &trans  &trans
+ &trans  &trans  &trans         &trans         &trans  &trans                            &trans                  &trans                  &trans     &trans          &trans          &trans  &trans  &trans
  &trans  &trans  &trans  &macro_braces  &macro_parens                    &trans  &trans  &trans                  &trans  &trans  &trans          &macro_m_  &macro_arrowop  &macro_dquotes  &trans  &trans
             >;
         };
