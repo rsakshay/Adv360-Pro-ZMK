@@ -1,3 +1,15 @@
+macro_s_: macro_s_{
+compatible = "zmk,behavior-macro";
+label = "macro_s_";
+#binding-cells = <0>;
+bindings = <&kp S>, <&kp UNDERSCORE>;
+};
+macro_g_: macro_g_{
+compatible = "zmk,behavior-macro";
+label = "macro_g_";
+#binding-cells = <0>;
+bindings = <&kp G>, <&kp UNDERSCORE>;
+};
 macro_arrowop: macro_arrowop{
 compatible = "zmk,behavior-macro";
 label = "macro_arrowop";
@@ -26,19 +38,19 @@ macro_braces: macro_braces{
 compatible = "zmk,behavior-macro";
 label = "macro_braces";
 #binding-cells = <0>;
-bindings = <&kp LBRC>, <&kp RBRC>, <&kp LEFT>;
+bindings = <&kp LBRC>, <&kp RBRC>, <&kp LEFT>, <&kp ENTER>;
 };
 macro_parens: macro_parens{
 compatible = "zmk,behavior-macro";
 label = "macro_parens";
 #binding-cells = <0>;
-bindings = <&kp LPAR>, <&kp RPAR>, <&kp LEFT>;
+bindings = <&kp LPAR>, <&kp RPAR>, <&kp LEFT>, <&kp SPACE>, <&kp SPACE>, <&kp LEFT_ARROW>;
 };
 macro_brackets: macro_brackets{
 compatible = "zmk,behavior-macro";
 label = "macro_brackets";
 #binding-cells = <0>;
-bindings = <&kp LBKT>, <&kp RBKT>, <&kp LEFT>;
+bindings = <&kp LBKT>, <&kp RIGHT_BRACKET>, <&kp LEFT_ARROW>, <&kp SPACE>, <&kp SPACE>, <&kp LEFT_ARROW>;
 };
 macro_kinesis: macro_kinesis{
 compatible = "zmk,behavior-macro";
