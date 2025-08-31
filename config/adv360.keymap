@@ -94,7 +94,7 @@
  &trans  &trans  &trans           &trans         &trans  &trans            &macro_quotes                                                  &macro_dquotes  &trans          &trans          &trans  &trans  &trans  &trans
  &trans  &trans  &trans           &trans         &trans  &trans                &macro_g_  &trans   &mo 6                   &mo 6  &trans       &macro_m_  &trans          &trans          &trans  &trans  &trans  &trans
  &trans  &trans  &trans           &trans         &trans  &trans                                   &trans                  &trans                          &trans          &trans          &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &macro_brackets  &macro_parens                           &trans  &trans  &trans                  &trans  &trans          &trans          &kp UNDERSCORE  &macro_arrowop  &trans  &trans  &trans
+ &trans  &trans  &trans           &trans         &trans                           &trans  &trans  &trans                  &trans  &trans          &trans                  &trans          &trans  &trans  &trans  &trans
             >;
         };
 
@@ -104,7 +104,7 @@
  &trans     &trans       &kp STAR       &kp PLUS        &kp MINUS   &kp PERCENT            &trans                                                  &trans                &trans          &kp LESS_THAN  &kp GREATER_THAN             &trans  &trans  &trans
  &trans  &kp TILDE  &kp AMPERSAND       &kp PIPE  &kp EXCLAMATION     &kp CARET            &trans  &trans  &trans                  &trans  &trans  &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans  &trans
  &trans     &trans      &kp COLON  &kp SEMICOLON         &kp HASH  &kp QUESTION                            &trans                  &trans                                &trans      &kp DOUBLE_QUOTES  &kp SINGLE_QUOTE             &trans  &trans  &trans
- &trans     &trans         &trans         &trans           &trans                          &trans  &trans  &trans                  &trans  &trans  &trans                                       &trans            &trans             &trans  &trans  &trans
+ &trans  &trans  &trans  &macro_brackets  &macro_parens                                    &trans  &trans  &trans                  &trans  &trans  &trans          &kp UNDERSCORE  &macro_arrowop  &trans  &trans  &trans
             >;
         };
 
