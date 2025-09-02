@@ -44,7 +44,7 @@
    &kp TAB         &kp Q     &kp W     &kp D      &kp F   &kp K               &kp HOME                                                                       &kp PG_UP    &kp J     &kp U      &kp R     &kp L  &kp SEMI   &kp BSLH
    &kp ESC         &kp A     &kp S     &kp E      &kp T   &kp G                &kp END  &kp INSERT         &mo 4                  &mo 4    &kp RCTRL    &kp PG_DN   &kp Y     &kp N      &kp I     &kp O     &kp H    &kp SQT
  &kp LEFT_ALT      &kp Z     &kp X     &kp C      &kp V   &kp B                                     &kp LSHFT                  &kp EQUAL                        &kp P     &kp M  &kp COMMA   &kp DOT  &kp FSLH  &kp RSHFT
-     &mo 2  &kp LEFT_WIN  &kp CAPS  &kp LEFT  &kp RIGHT                    &kp DEL   &kp SPACE  &kp LEFT_CONTROL                  &kp MINUS  &kp ENTER  &kp BSPC          &kp DOWN     &kp UP  &kp LBKT  &kp RBKT      &kp RALT
+     &mo 2  &kp LEFT_WIN  &kp CAPS  &kp LEFT  &kp RIGHT                    &kp SPACE   &kp DEL  &kp LEFT_CONTROL                  &kp MINUS  &kp ENTER  &kp BSPC          &kp DOWN     &kp UP  &kp LBKT  &kp RBKT      &kp RALT
             >;
         };
 
